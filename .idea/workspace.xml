@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f07b1fad-d5cd-4bd7-b7d8-6736809e65cb" name="Default Changelist" comment="" />
+    <list default="true" id="f07b1fad-d5cd-4bd7-b7d8-6736809e65cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyProgram" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Shell Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XbFoxenEP2G400UQzd7i3ydV6M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -53,9 +62,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1581307076399" />
-    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581307259691">
+    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581308095601">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1581307259691" />
+    <state x="432" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1581308095601" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1581308079451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581308079451" />
   </component>
 </project>
